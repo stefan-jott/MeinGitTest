@@ -8,6 +8,8 @@ public final class MeinGitTest extends JavaPlugin {
     public void onEnable() {
         // Plugin startup logic
 
+        //test
+
     }
 
     @Override

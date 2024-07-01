@@ -1,0 +1,4 @@
+name: MeinGitTest
+version: '${project.version}'
+main: de.sjun.meingittest.MeinGitTest
+api-version: '1.20'
